@@ -1,0 +1,94 @@
+ {
+    "tr" : {
+        "lang" : "english"
+    },
+    "navbar" : {
+        "home": "Home",
+        "wish list": "Wish List",
+        "products": "Products",
+        "categories": "Categories",
+        "brands": "Brands",
+        "SignOut": "SignOut"
+    },
+    "auth-nav": {
+        "login": "Login",
+        "register": "Register"
+    },
+    "home": {
+        "our categories": "Our Categories",
+        "our popular Products" : "Our Popular Products"
+    },
+    "cart": {
+        "shop cart": "Shop Cart",
+        "total cart price" : "Total Cart Price",
+        "remove all" : "Remove All",
+        "Order Now" : "Order Now"
+    },
+    "orders": {
+        "shepping address" : "Shepping Address",
+        "adress details" : "Adress Details",
+        "this input is requird" : "This Input Is Requird",
+        "contact phone" : "Contact Phone",
+        "enter a valid egyptian phone": "Enter A Valid Egyptian Phone",
+        "city": "City",
+        "visa check out" : "Visa Check Out",
+        "pay at home" : "Pay At Home"
+    },
+    "allorders": {
+        "shepped details" : "Shepped Details",
+        "order for" : "Order For",
+        "created at" : "Created At",
+        "contact phone" : "Contact Phone",
+        "total" : "Total",
+        "payment method" : "Payment Method",
+        "shepping address" : "Shepping Address",
+        "shepping products" : "Shepping Products",
+        "count" : "Count"
+    },
+    "login": {
+        "login": "Login",
+        "email": "Email",
+        "password": "Password",
+        "forget your password" : "Forget Your Password",
+        "click here to reset" : "Click Here To Reset",
+        "keep me logging in" : "Remember Me"
+    },
+    "register": {
+        "register now" : "Register Now",
+        "name" : "Name",
+        "email" : "Email",
+        "password" : "Password",
+        "rePassword" : "RePassword",
+        "name is required" : "Name Is Required",
+        "min length : 3 letters" : "Min Length : 3 Letters",
+        "max length : 20 letters" : "Max Length : 20 Letters",
+        "Valid Name" : "Valid Name",
+        "email is required" : "Email Is Required",
+        "enter a valid email" : "Enter A Valid Email",
+        "password is required" : "Password Is Required",
+        "min length : 6 char" : "Min Length : 6 Char",
+        "enter valid password" : "Enter Valid Password",
+        "the rePassword must match password" : "The RePassword Must Match Password",
+        "phone" : "Phone",
+        "phone is required" : "Phone Is Required",
+        "enter valid egyptian phone" : "Enter Valid Egyptian Phone",
+        "clear" : "Clear",
+        "Register" : "Register"
+    },
+    "pl" : {
+        "search for product by name..." : "Search For Product By Name...",
+        "add to cart" : "Add To Cart"
+    },
+    "footer" : {
+        "Get The FreshCart App" : "Get The FreshCart App",
+        "We Will Send You a Link, Open it on Your Phone to download the app" : "We Will Send You a Link, Open it on Your Phone to download the app",
+        "Email" : "Email",
+        "Share App Link" : "Share App Link",
+        "Payment partners" : "Payment partners",
+        "Get Deliveries with FreshCart" : "Get Deliveries with FreshCart"
+    },
+    "words": {
+        "there is no products in wish list click in heart icon too add to wish list": "there is no products in wish list click in heart icon too add to wish list",
+        "No products found.": "No products found."
+    }
+}

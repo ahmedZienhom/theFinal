@@ -1,0 +1,97 @@
+{
+    "tr" : {
+        "lang" : "عربي"
+    },
+    "navbar": {
+        "home": "الرئيسية",
+        "wish list" : "التفضيلات",
+        "products": "المنتجات",
+        "categories": "الفئات",
+        "brands": "العلامات التجارية",
+        "SignOut": "تسجيل الخروج"
+    },
+    "auth-nav": {
+        "login": "تسجيل الدخول",
+        "register": "إنشاء حساب"
+    },
+    "home": {
+        "our categories": "فئاتنا",
+        "our popular Products": "منتجاتنا الشهيرة"
+    },
+    "cart": {
+        "shop cart": "عربة التسوق",
+        "total cart price": "السعر الإجمالي للعربة",
+        "remove all": "إزالة الكل",
+        "Order Now": "اطلب الآن"
+    },
+    "orders": {
+        "shepping address": "عنوان الشحن",
+        "adress details": "تفاصيل العنوان",
+        "this input is requird": "هذا الحقل مطلوب",
+        "contact phone": "هاتف الاتصال",
+        "enter a valid egyptian phone": "أدخل رقم هاتف مصري صالح",
+        "city": "المدينة",
+        "visa check out": "الدفع عبر فيزا",
+        "pay at home": "الدفع عند الاستلام"
+    },
+    "allorders": {
+        "shepped details": "تفاصيل الشحن",
+        "order for": "طلب لـ",
+        "created at": "تاريخ الإنشاء",
+        "contact phone": "هاتف الاتصال",
+        "total": "الإجمالي",
+        "payment method": "طريقة الدفع",
+        "shepping address": "عنوان الشحن",
+        "shepping products": "المنتجات المشحونة",
+        "count": "العدد"
+    },
+    "login": {
+        "login": "تسجيل الدخول",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "forget your password": "نسيت كلمة المرور؟",
+        "click here to reset": "انقر هنا لإعادة تعيين",
+        "keep me logging in": "تذكرني"
+    },
+    "register": {
+        "register now": "سجل الآن",
+        "name": "الاسم",
+        "email": "البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "rePassword": "إعادة كلمة المرور",
+        "name is required": "الاسم مطلوب",
+        "min length : 3 letters": "الحد الأدنى للطول: 3 أحرف",
+        "max length : 20 letters": "الحد الأقصى للطول: 20 حرفًا",
+        "Valid Name": "اسم صالح",
+        "email is required": "البريد الإلكتروني مطلوب",
+        "enter a valid email": "أدخل بريدًا إلكترونيًا صالحًا",
+        "password is required": "كلمة المرور مطلوبة",
+        "min length : 6 char": "الحد الأدنى للطول: 6 أحرف",
+        "enter valid password": "أدخل كلمة مرور صالحة",
+        "the rePassword must match password": "يجب أن تتطابق إعادة كلمة المرور مع كلمة المرور",
+        "phone": "الهاتف",
+        "phone is required": "الهاتف مطلوب",
+        "enter valid egyptian phone": "أدخل رقم هاتف مصري صالح",
+        "clear": "مسح",
+        "Register": "سجل"
+    },
+    "pl": {
+        "search for product by name...": "ابحث عن منتج بالاسم...",
+        "add to cart": "أضف إلى السلة"
+    },
+    
+    "footer": {
+        "Get The FreshCart App": "احصل على تطبيق FreshCart",
+        "We Will Send You a Link, Open it on Your Phone to download the app": "سنرسل لك رابطًا، افتحه على هاتفك لتنزيل التطبيق",
+        "Email": "البريد الإلكتروني",
+        "Share App Link": "مشاركة رابط التطبيق",
+        "Payment partners": "شركاء الدفع",
+        "Get Deliveries with FreshCart": "احصل على توصيلات مع FreshCart"
+    },
+    "words": {
+    "there is no products in wish list click in heart icon too add to wish list": "لا توجد منتجات في قائمة الرغبات، انقر على أيقونة القلب لإضافة منتجات إلى قائمة الرغبات",
+    "No products found." : "لا توجد منتجات"
+}
+
+    
+}

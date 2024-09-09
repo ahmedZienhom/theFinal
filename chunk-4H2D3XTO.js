@@ -1,0 +1,1 @@
+import{Gb as i,Hb as a,_b as r,gc as s,ma as o}from"./chunk-CL6NW3CB.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["app-not-found"]],standalone:!0,features:[s],decls:2,vars:0,template:function(n,d){n&1&&(i(0,"p"),r(1,"not-found works!"),a())}});let t=e;return t})();export{c as NotFoundComponent};
