@@ -31,8 +31,8 @@
         "contact phone" : "Contact Phone",
         "enter a valid egyptian phone": "Enter A Valid Egyptian Phone",
         "city": "City",
-        "visa check out" : "Visa Check Out",
-        "pay at home" : "Pay At Home"
+        "visa check out" : "Card Check Out",
+        "pay at home" : "cash on delivery"
     },
     "allorders": {
         "shepped details" : "Shepped Details",
